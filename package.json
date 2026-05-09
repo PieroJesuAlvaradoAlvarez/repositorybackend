@@ -1,0 +1,14 @@
+{
+  "name": "LAB08_WEB",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Piero Alvarado <piero.alvarado.a@tecsup.edu.pe>",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^17.4.2",
+    "nodemon": "^3.1.14"
+  }
+}
